@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login gagal - invalid creds</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>722cd459-be2c-4c43-a34c-a8cdc1109e59</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>067a095c-00eb-4b89-8d36-9a2269dda2c2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>38a3bc1c-574b-4cb3-b2d8-f31a7a08cc6a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>067a095c-00eb-4b89-8d36-9a2269dda2c2</id>
+      <masked>false</masked>
+      <name>usname</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>38a3bc1c-574b-4cb3-b2d8-f31a7a08cc6a</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_personaldetailsection</name>
+   <tag></tag>
+   <elementGuidId>eae265b8-1e8b-4bb1-8d31-4122b9820e01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-horizontal-padding.orangehrm-vertical-padding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dc57cf38-4245-41eb-b82a-e43ab6191913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-horizontal-padding orangehrm-vertical-padding</value>
+      <webElementGuid>6d65adfa-6b75-4277-9bb2-f95151a14b45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Personal DetailsEmployee Full NameNicknameEmployee IdOther IdDriver's License NumberLicense Expiry DateSSN NumberSIN NumberNationalityAmericanMarital StatusMarriedDate of BirthGenderMaleFemaleMilitary ServiceSmokerYes * Required Save </value>
+      <webElementGuid>71123f1a-b63a-4d89-b31d-d5c3ea37aba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-content&quot;]/div[@class=&quot;orangehrm-horizontal-padding orangehrm-vertical-padding&quot;]</value>
+      <webElementGuid>d06f2155-5629-4227-a2da-ac9597ea173f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>6a6b248d-d724-4782-be86-e32cebdb7361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memberships'])[1]/following::div[2]</value>
+      <webElementGuid>509e4b25-5748-4eef-b569-5c7467587bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::div[3]</value>
+      <webElementGuid>00d78423-b45c-49fa-b3b3-a1c87f509a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>e16ca533-700b-401c-a484-15494d9c8c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Personal DetailsEmployee Full NameNicknameEmployee IdOther IdDriver&quot; , &quot;'&quot; , &quot;s License NumberLicense Expiry DateSSN NumberSIN NumberNationalityAmericanMarital StatusMarriedDate of BirthGenderMaleFemaleMilitary ServiceSmokerYes * Required Save &quot;) or . = concat(&quot;Personal DetailsEmployee Full NameNicknameEmployee IdOther IdDriver&quot; , &quot;'&quot; , &quot;s License NumberLicense Expiry DateSSN NumberSIN NumberNationalityAmericanMarital StatusMarriedDate of BirthGenderMaleFemaleMilitary ServiceSmokerYes * Required Save &quot;))]</value>
+      <webElementGuid>8f029504-a7bc-4e48-8be0-8ee7bf87aceb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

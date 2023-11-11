@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_dropdownnationality</name>
+   <tag></tag>
+   <elementGuidId>8a0492f1-0d66-44f6-9f59-7f931558c010</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div/form/div[3]/div/div/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-select-dropdown.--positon-bottom</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b713f85-00a9-46b5-8414-1c283bad6cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>listbox</value>
+      <webElementGuid>c8327cd8-d60f-4381-9c59-c0b3180e299a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-select-dropdown --positon-bottom</value>
+      <webElementGuid>4aafe3a3-0fc9-439f-83da-9d2492fd3510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>055eb59d-42f5-4d17-8146-1e4fdfe64ccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Select --AfghanAlbanianAlgerianAmericanAndorranAngolanAntiguansArgentineanArmenianAustralianAustrianAzerbaijaniBahamianBahrainiBangladeshiBarbadianBarbudansBatswanaBelarusianBelgianBelizeanBenineseBhutaneseBolivianBosnianBrazilianBritishBruneianBulgarianBurkinabeBurmeseBurundianCambodianCameroonianCanadianCape VerdeanCentral AfricanChadianChileanChineseColombianComoranCongoleseCosta RicanCroatianCubanCypriotCzechDanishDjiboutiDominicanDutchEast TimoreseEcuadoreanEgyptianEmirianEquatorial GuineanEritreanEstonianEthiopianFijianFilipinoFinnishFrenchGaboneseGambianGeorgianGermanGhanaianGreekGrenadianGuatemalanGuinea-BissauanGuineanGuyaneseHaitianHerzegovinianHonduranHungarianI-KiribatiIcelanderIndianIndonesianIranianIraqiIrishIsraeliItalianIvorianJamaicanJapaneseJordanianKazakhstaniKenyanKittian and NevisianKuwaitiKyrgyzLaotianLatvianLebaneseLiberianLibyanLiechtensteinerLithuanianLuxembourgerMacedonianMalagasyMalawianMalaysianMaldivanMalianMalteseMarshalleseMauritanianMauritianMexicanMicronesianMoldovanMonacanMongolianMoroccanMosothoMotswanaMozambicanNamibianNauruanNepaleseNew ZealanderNicaraguanNigerianNigerienNorth KoreanNorthern IrishNorwegianOmaniPakistaniPalauanPanamanianPapua New GuineanParaguayanPeruvianPolishPortugueseQatariRomanianRussianRwandanSaint LucianSalvadoranSamoanSan MarineseSao TomeanSaudiScottishSenegaleseSerbianSeychelloisSierra LeoneanSingaporeanSlovakianSlovenianSolomon IslanderSomaliSouth AfricanSouth KoreanSpanishSri LankanSudaneseSurinamerSwaziSwedishSwissSyrianTaiwaneseTajikTanzanianThaiTogoleseTonganTrinidadian or TobagonianTunisianTurkishTuvaluanUgandanUkrainianUruguayanUzbekistaniVenezuelanVietnameseWelshYemeniteZambianZimbabwean</value>
+      <webElementGuid>30235dfd-dff6-40e9-b366-e31ec4daf109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-content&quot;]/div[@class=&quot;orangehrm-horizontal-padding orangehrm-vertical-padding&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/div[@class=&quot;oxd-select-wrapper&quot;]/div[@class=&quot;oxd-select-dropdown --positon-bottom&quot;]</value>
+      <webElementGuid>ee1aa8b1-df66-46c1-8674-b8395fbb1d6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div/form/div[3]/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>a2f07883-9d66-4488-8ed6-002084b80664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='American'])[1]/following::div[2]</value>
+      <webElementGuid>1e98d019-2767-4410-98ec-4b93f49a3ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality'])[1]/following::div[6]</value>
+      <webElementGuid>47e6098d-e954-41ae-ba71-79cea0da8b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>3221435c-392b-41b6-9c8e-1e9e751e614f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '-- Select --AfghanAlbanianAlgerianAmericanAndorranAngolanAntiguansArgentineanArmenianAustralianAustrianAzerbaijaniBahamianBahrainiBangladeshiBarbadianBarbudansBatswanaBelarusianBelgianBelizeanBenineseBhutaneseBolivianBosnianBrazilianBritishBruneianBulgarianBurkinabeBurmeseBurundianCambodianCameroonianCanadianCape VerdeanCentral AfricanChadianChileanChineseColombianComoranCongoleseCosta RicanCroatianCubanCypriotCzechDanishDjiboutiDominicanDutchEast TimoreseEcuadoreanEgyptianEmirianEquatorial GuineanEritreanEstonianEthiopianFijianFilipinoFinnishFrenchGaboneseGambianGeorgianGermanGhanaianGreekGrenadianGuatemalanGuinea-BissauanGuineanGuyaneseHaitianHerzegovinianHonduranHungarianI-KiribatiIcelanderIndianIndonesianIranianIraqiIrishIsraeliItalianIvorianJamaicanJapaneseJordanianKazakhstaniKenyanKittian and NevisianKuwaitiKyrgyzLaotianLatvianLebaneseLiberianLibyanLiechtensteinerLithuanianLuxembourgerMacedonianMalagasyMalawianMalaysianMaldivanMalianMalteseMarshalleseMauritanianMauritianMexicanMicronesianMoldovanMonacanMongolianMoroccanMosothoMotswanaMozambicanNamibianNauruanNepaleseNew ZealanderNicaraguanNigerianNigerienNorth KoreanNorthern IrishNorwegianOmaniPakistaniPalauanPanamanianPapua New GuineanParaguayanPeruvianPolishPortugueseQatariRomanianRussianRwandanSaint LucianSalvadoranSamoanSan MarineseSao TomeanSaudiScottishSenegaleseSerbianSeychelloisSierra LeoneanSingaporeanSlovakianSlovenianSolomon IslanderSomaliSouth AfricanSouth KoreanSpanishSri LankanSudaneseSurinamerSwaziSwedishSwissSyrianTaiwaneseTajikTanzanianThaiTogoleseTonganTrinidadian or TobagonianTunisianTurkishTuvaluanUgandanUkrainianUruguayanUzbekistaniVenezuelanVietnameseWelshYemeniteZambianZimbabwean' or . = '-- Select --AfghanAlbanianAlgerianAmericanAndorranAngolanAntiguansArgentineanArmenianAustralianAustrianAzerbaijaniBahamianBahrainiBangladeshiBarbadianBarbudansBatswanaBelarusianBelgianBelizeanBenineseBhutaneseBolivianBosnianBrazilianBritishBruneianBulgarianBurkinabeBurmeseBurundianCambodianCameroonianCanadianCape VerdeanCentral AfricanChadianChileanChineseColombianComoranCongoleseCosta RicanCroatianCubanCypriotCzechDanishDjiboutiDominicanDutchEast TimoreseEcuadoreanEgyptianEmirianEquatorial GuineanEritreanEstonianEthiopianFijianFilipinoFinnishFrenchGaboneseGambianGeorgianGermanGhanaianGreekGrenadianGuatemalanGuinea-BissauanGuineanGuyaneseHaitianHerzegovinianHonduranHungarianI-KiribatiIcelanderIndianIndonesianIranianIraqiIrishIsraeliItalianIvorianJamaicanJapaneseJordanianKazakhstaniKenyanKittian and NevisianKuwaitiKyrgyzLaotianLatvianLebaneseLiberianLibyanLiechtensteinerLithuanianLuxembourgerMacedonianMalagasyMalawianMalaysianMaldivanMalianMalteseMarshalleseMauritanianMauritianMexicanMicronesianMoldovanMonacanMongolianMoroccanMosothoMotswanaMozambicanNamibianNauruanNepaleseNew ZealanderNicaraguanNigerianNigerienNorth KoreanNorthern IrishNorwegianOmaniPakistaniPalauanPanamanianPapua New GuineanParaguayanPeruvianPolishPortugueseQatariRomanianRussianRwandanSaint LucianSalvadoranSamoanSan MarineseSao TomeanSaudiScottishSenegaleseSerbianSeychelloisSierra LeoneanSingaporeanSlovakianSlovenianSolomon IslanderSomaliSouth AfricanSouth KoreanSpanishSri LankanSudaneseSurinamerSwaziSwedishSwissSyrianTaiwaneseTajikTanzanianThaiTogoleseTonganTrinidadian or TobagonianTunisianTurkishTuvaluanUgandanUkrainianUruguayanUzbekistaniVenezuelanVietnameseWelshYemeniteZambianZimbabwean')]</value>
+      <webElementGuid>d29c28b5-257e-4f6f-9d23-cf2f315587fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MyInfo background</name>
+   <tag></tag>
+   <elementGuidId>fde8e1da-81b4-42aa-98f0-97571cb7bc71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c11bfd7f-5d72-457e-9d74-3e77efee6a66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>9b8ee0c6-0af7-42b3-8e8d-561e002c242e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mario RossPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryTax ExemptionsReport-toQualificationsMembershipsPersonal DetailsEmployee Full NameNicknameEmployee IdOther IdDriver's License NumberLicense Expiry DateSSN NumberSIN NumberNationalityAmericanMarital StatusMarriedDate of BirthGenderMaleFemaleMilitary ServiceSmokerYes * Required Save Custom FieldsBlood TypeB+ Save Attachments Add No Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions</value>
+      <webElementGuid>bdb9b229-6ec4-4925-9306-8013b3e19466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>1de4d1c6-2fe2-4f3f-9b67-8b8a23022ef1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>18f86b79-90af-4197-8254-0a1b532009f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>172c6502-c7ab-4322-a92c-33dfadea94c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Mario RossPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryTax ExemptionsReport-toQualificationsMembershipsPersonal DetailsEmployee Full NameNicknameEmployee IdOther IdDriver&quot; , &quot;'&quot; , &quot;s License NumberLicense Expiry DateSSN NumberSIN NumberNationalityAmericanMarital StatusMarriedDate of BirthGenderMaleFemaleMilitary ServiceSmokerYes * Required Save Custom FieldsBlood TypeB+ Save Attachments Add No Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions&quot;) or . = concat(&quot;Mario RossPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryTax ExemptionsReport-toQualificationsMembershipsPersonal DetailsEmployee Full NameNicknameEmployee IdOther IdDriver&quot; , &quot;'&quot; , &quot;s License NumberLicense Expiry DateSSN NumberSIN NumberNationalityAmericanMarital StatusMarriedDate of BirthGenderMaleFemaleMilitary ServiceSmokerYes * Required Save Custom FieldsBlood TypeB+ Save Attachments Add No Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions&quot;))]</value>
+      <webElementGuid>dcf56242-27fb-4ead-a7e6-c6f20ea17a64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
